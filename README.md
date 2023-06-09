@@ -1,5 +1,6 @@
 # Challenges-Oracle-ONE
 <img src="Captura.PNG"/>
+
 # Descripción:
 El proyecto <em>"Challenges-Oracle-ONE Encriptador/Desencriptador de Texto"</em> es una aplicación web que permite encriptar y desencriptar texto utilizando el cifrado César, junto con tecnologías web como HTML, CSS y Javascript. La aplicación proporciona a los usuarios una interfaz intuitiva donde pueden ingresar un mensaje de texto y elegir una clave de encriptación para cifrarlo utilizando el cifrado César. También permite a los usuarios ingresar el texto encriptado y la clave correspondiente para desencriptarlo y obtener el mensaje original.
 
